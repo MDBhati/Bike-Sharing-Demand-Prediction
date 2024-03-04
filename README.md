@@ -5,7 +5,10 @@ As a convenient, economical, and ecofriendly travel mode, bike-sharing greatly i
 We are here to explore the bike sharing dataset and build a model to do the following:
 
 Maximize: The availability of bikes to the customer.
-Minimize: Minimize the time of waiting to get a bike on rent. The main goal of the project is to: Find factors and causes which influence shortages of bikes and time delay of availing bikes on rent. Using the data provided, this paper aims to analyze the data to determine what variables are correlated with bike demand prediction. Hourly count of bikes for rent will also be predicted.
+
+Minimize: Minimize the time of waiting to get a bike on rent. 
+
+The main goal of the project is to: Find factors and causes which influence shortages of bikes and time delay of availing bikes on rent. Using the data provided, this paper aims to analyze the data to determine what variables are correlated with bike demand prediction. Hourly count of bikes for rent will also be predicted.
 
 ## Introduction
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
